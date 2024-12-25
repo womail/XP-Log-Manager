@@ -1,0 +1,2 @@
+Description: This is an app to handle X-Plane logfiles but it can be used for general logfile management.
+Application: xplogmgr-app.py
