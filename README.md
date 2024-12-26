@@ -33,3 +33,10 @@ To install XP-Log-Manager, ensure you have Python installed on your system, then
 ## Usage
 
 To run the application, execute the following command in your terminal:
+
+## Contact
+
+For any questions or feedback, please contact [womail] at [womail@gmail.com]. 
+
+## OS
+This has only been test on a Manjaro Linux Platform
